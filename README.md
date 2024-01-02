@@ -25,6 +25,8 @@ This repository contains the HeartCoin smart contract that allows users to play 
 ### FAQ
 <a href="https://docs.heartgames.io/heartcoin-whitepaper-v1.0/faq">https://docs.heartgames.io/heartcoin-whitepaper-v1.0/faq</a>
 
+### termsofservice
+<a href="https://heartgames.io/termsofservice">https://heartgames.io/termsofservice</a>
+
 # 🗃️ Directory Organization
 ERC-20 TOKEN SMART CONTRACT : HeartCoin.sol
-
